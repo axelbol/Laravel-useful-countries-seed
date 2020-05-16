@@ -1,4 +1,4 @@
-# Laravel-useful-countries-seed
+# Laravel useful countries seed
 
 Useful seeds for all the countries.
 
